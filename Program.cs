@@ -10,7 +10,8 @@ namespace learn_csharp_4
             // Exercice1.Answer();
             // Exercice2.Answer();
             // Exercice3.Answer();
-            Exercice4.Answer();
+            // Exercice4.Answer();
+            Exercice5.Answer();
         }
     }
 }
